@@ -30,4 +30,4 @@ View'ams susikurti bus naudojami sekančios SQL užklausos:
 
 
 
-#### Matavimai: [](![](Visualization%20(Screenshots)/matavimai.png))
+#### Matavimai: [](https://github.com/moksliukas/Duomenu_analitika/blob/main/Imon%C4%97s%20veiklos%20analize/Visualization%20(Screenshots)/matavimai.png)

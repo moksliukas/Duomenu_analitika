@@ -28,8 +28,6 @@ SELECT
   --  ,[ShipDate] 
 FROM 
   [AdventureWorksDW2019].[dbo].[FactInternetSales]
-WHERE 
-  LEFT (OrderDateKey, 4) >= YEAR(GETDATE()) -2	-- Ensures we always only bring two years of date from extraction. 
-												-- GETDATE() function helps fetch today's date, wrap that function into 'Year' and it'll return Year value.
+												
 ORDER BY
-  OrderDateKey ASC
+  OrderDateKey ASC;

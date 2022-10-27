@@ -23,7 +23,7 @@ View'ams susikurti bus naudojami sekantčios SQL užklausos:
 ![2  Pardavimų apžvalga](https://github.com/moksliukas/Duomenu_analitika/blob/main/Imon%C4%97s%20veiklos%20analize/Visualization%20(Screenshots)/2.%20Sales%20Overview.png)
 
 #### iii. Klientų apžvalgos duomenų skydas
-![3  KLientų detalės](https://github.com/moksliukas/Duomenu_analitika/blob/main/Imon%C4%97s%20veiklos%20analize/Visualization%20(Screenshots)/3.%20Customer%20Details.png
+![3  KLientų detalės](https://github.com/moksliukas/Duomenu_analitika/blob/main/Imon%C4%97s%20veiklos%20analize/Visualization%20(Screenshots)/3.%20Customer%20Details.png)
 
 #### iv. Prekių apžvalgos duomenų skydas
 ![4  Prekių detalės](https://github.com/moksliukas/Duomenu_analitika/blob/main/Imon%C4%97s%20veiklos%20analize/Visualization%20(Screenshots)/4.%20Product%20Details.png)

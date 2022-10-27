@@ -30,8 +30,15 @@ View'ams susikurti bus naudojami sekančios SQL užklausos:
 
 
 
-#### Matavimai
+#### Matavimai 1
 ![5 Rekomenduojami matavimai](https://github.com/moksliukas/Duomenu_analitika/blob/main/Imon%C4%97s%20veiklos%20analize/Vizualizacija/matavimai.png)
+
+#### Matavimai 2 (papildomai)
+1. Parenkite įmonės našumo pagrindinius KPI?
+2. Kokia bendra pardavimo tendencija?
+3. Kokie yra 10 geriausių produktų pagal pardavimą?
+4. Koks bendras augimas per mėnesį ir per metus?
+5. Koks pardavimų pasiskirstymas pagal kategorijas?
 
 
 >Užduotis rengta remiantis interneto šaltiniais.   

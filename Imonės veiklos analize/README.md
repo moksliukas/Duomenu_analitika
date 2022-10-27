@@ -16,18 +16,18 @@ View'ams susikurti bus naudojami sekantčios SQL užklausos:
 
 
 ## DUOMENŲ VIZUALIZACIJA
-##### i. Entity Relationship Diagram Model
+##### i. Rekomeduojamas duomenų sąryšių modelis
 ![1  Duomenų modelis](https://github.com/moksliukas/Duomenu_analitika/blob/main/Imon%C4%97s%20veiklos%20analize/Visualization%20(Screenshots)/1.%20Model%20Relations.PNG)
 
-#### ii. Sales Overview DASHBOARD
-![2  Sales Overview](https://user-images.githubusercontent.com/45898995/119709090-a64aaa80-be7e-11eb-91bc-4870483b1401.png)
+#### ii. Pardavimų apžvalgos duoemnų skydas
+![2  Pardavimų apžvalga](https://github.com/moksliukas/Duomenu_analitika/blob/main/Imon%C4%97s%20veiklos%20analize/Visualization%20(Screenshots)/2.%20Sales%20Overview.png)
 
-#### iii. Customer Details DASHBOARD
-![3  Customer Details](https://user-images.githubusercontent.com/45898995/119709961-a4351b80-be7f-11eb-87b8-13c6315b6eba.png)
+#### iii. Klientų apžvalgos duomenų skydas
+![3  KLientų detalės](https://github.com/moksliukas/Duomenu_analitika/blob/main/Imon%C4%97s%20veiklos%20analize/Visualization%20(Screenshots)/3.%20Customer%20Details.png
 
-#### iv. Product Details DASHBOARD
-![4  Product Details](https://user-images.githubusercontent.com/45898995/119710084-c464da80-be7f-11eb-90b3-8e50a0f4ae20.png)
+#### iv. Prekių apžvalgos duomenų skydas
+![4  Prekių detalės](https://github.com/moksliukas/Duomenu_analitika/blob/main/Imon%C4%97s%20veiklos%20analize/Visualization%20(Screenshots)/4.%20Product%20Details.png)
 
 
 
-##### Note: *The PowerBI online publishing link isn't available right now because of subscription issues. I'll add that online link soon, so anyone can open it and interact with it as the whole thing is very dynamic.*
+#### Matavimai: 

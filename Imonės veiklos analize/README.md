@@ -17,7 +17,7 @@ View'ams susikurti bus naudojami sekantčios SQL užklausos:
 
 ## DUOMENŲ VIZUALIZACIJA
 ##### i. Entity Relationship Diagram Model
-![1  Model Relations](https://user-images.githubusercontent.com/45898995/119708373-e8bfb780-be7d-11eb-90b2-5da0afdedcce.PNG)
+![1  Duomenų modelis](https://github.com/moksliukas/Duomenu_analitika/blob/main/Imon%C4%97s%20veiklos%20analize/Visualization%20(Screenshots)/1.%20Model%20Relations.PNG)
 
 #### ii. Sales Overview DASHBOARD
 ![2  Sales Overview](https://user-images.githubusercontent.com/45898995/119709090-a64aaa80-be7e-11eb-91bc-4870483b1401.png)

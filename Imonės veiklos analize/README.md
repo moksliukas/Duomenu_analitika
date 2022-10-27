@@ -32,3 +32,7 @@ View'ams susikurti bus naudojami sekančios SQL užklausos:
 
 #### Matavimai
 ![5 Rekomenduojami matavimai](https://github.com/moksliukas/Duomenu_analitika/blob/main/Imon%C4%97s%20veiklos%20analize/Vizualizacija/matavimai.png)
+
+
+>Užduotis rengta remiantis interneto šaltiniais.   
+Nuoroda: (bus paskelbta šiek tiek vėliau)

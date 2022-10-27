@@ -4,7 +4,7 @@ Darbui bus naudojama „Microsoft AdventureWorksDW“ duomenų bazė, Užklausos
 ### Database Link: 
    >Jūs jau turite susiinstaliavę  praeitą paskaitą
 
-View'ams susikurti bus naudojami sekantčios SQL užklausos:
+View'ams susikurti bus naudojami sekančios SQL užklausos:
 1. Dim_Customer.sql
 2. Dim_Products.sql
 3. Dim_Date.sql
@@ -30,4 +30,4 @@ View'ams susikurti bus naudojami sekantčios SQL užklausos:
 
 
 
-#### Matavimai: 
+#### Matavimai: [](![](Visualization%20(Screenshots)/matavimai.png))

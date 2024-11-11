@@ -27,7 +27,7 @@ SELECT
   --  ,[DueDate] 
   --  ,[ShipDate] 
 FROM 
-  [AdventureWorksDW2019].[dbo].[FactInternetSales]
+  dbo.[FactInternetSales]
 												
 ORDER BY
   OrderDateKey ASC;

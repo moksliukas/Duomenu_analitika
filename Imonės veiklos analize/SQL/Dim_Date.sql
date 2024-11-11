@@ -20,4 +20,4 @@ SELECT
   --,[FiscalYear]
   --,[FiscalSemester]
 FROM 
-  [AdventureWorksDW2019].[dbo].[DimDate];
+  dbo.[DimDate];

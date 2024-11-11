@@ -39,7 +39,7 @@ SELECT
   --      ,[EndDate], 
   ISNULL (p.Status, 'Outdated') AS [Product Status] 
 FROM 
-  [AdventureWorksDW2019].[dbo].[DimProduct] as p
+  dbo.[DimProduct] as p
 
   LEFT JOIN dbo.DimProductSubcategory AS ps 
   ON ps.ProductSubcategoryKey = p.ProductSubcategoryKey 

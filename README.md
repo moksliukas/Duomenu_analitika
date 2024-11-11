@@ -1,2 +1,2 @@
-# Duomenu analitika (ISV M-2022)
+# Duomenu analitika (ISV M-2024)
 Duomenų analitikos medžiaga studentams
